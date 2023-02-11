@@ -10,7 +10,7 @@ Overall, I'm satisifed with my attempt, and glad that the code isn't too messy.
 ## What could be improved:
 
 1. The snake does not increase length when it consumes food, and I am unclear on how to implement the snake's body logic, as well as handling snake body collisions. My best guess is to create two different *Class objects*, **snake_head** and **snake_body**. Will need to work on implementing this if I decide to rework this game.
-2. Implementing a timer-based system (importing a Python library that refreshes the game on a constant timed loop), such that the user only has to direct the snake with *[W/A/S/D]* keys, with no need to press enter
+2. Implementing a timer-based system (importing a Python library that refreshes the game on a constant timed loop), such that the user only has to direct the snake with *[W/A/S/D]* keys, with no need to press enter.
 
 ----------
 
